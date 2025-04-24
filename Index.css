@@ -586,8 +586,3 @@ hr {
     background-color: #e8f5e9;
   }
 }
-@media (min-width: 1200px) {
-  body {
-    background-color: #fff8e1;
-  }
-}
